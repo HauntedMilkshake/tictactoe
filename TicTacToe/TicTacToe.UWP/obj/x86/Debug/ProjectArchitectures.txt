@@ -1,0 +1,1 @@
+C:\Spas\alo.bg\client2\tictactoe\TicTacToe\TicTacToe.UWP\TicTacToe.UWP.csproj;x86
